@@ -8,8 +8,9 @@ For example, SQL Server and MongoDB has been implemented in this solution.
 ## Table of Contents
 * How to Setup
 * General Description
-* Technologies
 * Template Structure
+* Technologies
+* Whats Next
 * Licensing
 * Upcomming
 * Special Thanks
