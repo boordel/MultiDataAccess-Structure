@@ -44,9 +44,9 @@ public class MongoDataAccess: IDataAccess
         {
             case DataChangeType.Insert:
                 // Generate new id
-                var lastRedord = await collection.Find(_ => true)
+                var lastRecord = await collection.Find(_ => true)
                     .SortByDescending(d => (d as BaseModel)!.Id).Limit(1).FirstOrDefaultAsync();
-                (data as BaseModel)!.Id = lastRedord != null ? (lastRedord as BaseModel)!.Id + 1 : 1;
+                (data as BaseModel)!.Id = lastRecord != null ? (lastRecord as BaseModel)!.Id + 1 : 1;
 
                 await collection.InsertOneAsync(data);
                 break;
