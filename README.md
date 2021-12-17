@@ -6,10 +6,10 @@ For example, SQL Server and MongoDB has been implemented in this solution.
 
 
 ## Table of Contents
-* How to setup
-* General description
+* How to Setup
+* General Description
 * Technologies
-* Template structure
+* Template Structure
 * Licensing
 * Upcomming
 * Special Thanks
