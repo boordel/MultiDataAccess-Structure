@@ -35,5 +35,7 @@ After downloading the clone, follow these steps:
 
 ```json
   "SqlServerEnabled": "true",
-  "MongoDBEnabled": "flase"
+  "MongoDBEnabled": "false"
 ```
+
+* Make `DataStructure1.web` as start up project and run it and after that go to *Employees* page.
