@@ -17,6 +17,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStructure1.Infra.SqlSer
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataStructure1.Infra.MongoDB", "src\DataStructure1.Infra.MongoDB\DataStructure1.Infra.MongoDB.csproj", "{3302F41C-AAB4-4A26-85BF-29150F21FDEB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "doc", "doc", "{A6810A26-9A83-4BA0-A3CD-D6CAA2B85984}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{26E5C52D-C601-4F12-8944-B0DA87F3C2BD}"
+	ProjectSection(SolutionItems) = preProject
+		doc\images\01-sqldatabase-publish.png = doc\images\01-sqldatabase-publish.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,6 +67,7 @@ Global
 		{95CB326D-B07F-4D77-9F77-13B8E4B1E143} = {B9511BC3-7D91-4D69-A5AF-70DFDD8BA7E0}
 		{C18CAB46-A965-4E87-8D43-39F168F2DBC9} = {B9511BC3-7D91-4D69-A5AF-70DFDD8BA7E0}
 		{3302F41C-AAB4-4A26-85BF-29150F21FDEB} = {B9511BC3-7D91-4D69-A5AF-70DFDD8BA7E0}
+		{26E5C52D-C601-4F12-8944-B0DA87F3C2BD} = {A6810A26-9A83-4BA0-A3CD-D6CAA2B85984}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {EBAB3A8E-D892-4405-9BBB-AB485F46BA9E}
