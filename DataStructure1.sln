@@ -22,6 +22,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{26E5C52D-C601-4F12-8944-B0DA87F3C2BD}"
 	ProjectSection(SolutionItems) = preProject
 		doc\images\01-sqldatabase-publish.png = doc\images\01-sqldatabase-publish.png
+		doc\images\02-traditional-architecture.png = doc\images\02-traditional-architecture.png
+		doc\images\03-clean-architecture.png = doc\images\03-clean-architecture.png
 	EndProjectSection
 EndProject
 Global
