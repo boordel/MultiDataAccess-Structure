@@ -41,7 +41,7 @@ After downloading the clone, follow these steps:
 * Make `DataStructure1.web` as start up project and run it and after that go to *Employees page*.
 
 ## General Description
-All of the description of this section has been chosen from *[Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/)* book:
+All description of this section has been chosen from *[Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure](https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/)* book:
 
 ![traditional architecture](./doc/images/02-traditional-architecture.png)
 > Traditional N-Layer architecture applications:
